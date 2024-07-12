@@ -129,7 +129,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Socket"
-			(at 1.016 -10.795 180)
+			(at 0.381 -24.003 180)
 			(layer "F.Fab")
 			(uuid "575c0c4b-9426-45e9-8ffb-355623510bda")
 			(effects
@@ -5066,6 +5066,66 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(gr_text "dir"
+		(at 122.555 115.57 0)
+		(layer "B.Cu")
+		(uuid "598fac09-6e8a-43ed-9b1d-06843325f239")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 113.03 75.438 0)
+		(layer "B.Cu")
+		(uuid "b676f113-df9e-4c2c-94fc-dc9af68c421c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "pwm\n"
+		(at 122.555 112.649 0)
+		(layer "B.Cu")
+		(uuid "bd4ec3e6-6d5c-4c16-b79d-de7b4be6b278")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 115.824 75.311 0)
+		(layer "B.Cu")
+		(uuid "bdbfa773-af71-4b06-abe7-18fa84c1c854")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 122.428 110.236 0)
+		(layer "B.Cu")
+		(uuid "f4aa4fdc-b735-4661-8ce9-1e2757fb04d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
