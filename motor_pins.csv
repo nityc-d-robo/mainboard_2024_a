@@ -1,4 +1,4 @@
-﻿id_motor,pwm_GPIO,dir_GPIO
+﻿motor_id,pwm_GPIO,dir_GPIO
 1,17,18
 2,27,22
 3,23,24
